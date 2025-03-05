@@ -3,6 +3,17 @@
  * customize material design icon sizes 
  *-------------------------------------
  */
+ .responsive {
+  width: 100%;
+  height: auto;
+}
+
+.rounded-circle {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  /* Centers the circle horizontally */
+}
 
 .material-icons.md-18 { font-size: 18px; }
 .material-icons.md-24 { font-size: 24px; }
